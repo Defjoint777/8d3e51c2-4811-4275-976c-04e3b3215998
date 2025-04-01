@@ -7,7 +7,7 @@
 }
 --->
 
-# Using the Windows Terminal
+# Using the Linux Terminal
 
 ## 1) Introduction
 Today most people are used to work with _graphical user interfaces_ (GUIs) on their computers.
