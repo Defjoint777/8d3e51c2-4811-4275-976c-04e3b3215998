@@ -70,7 +70,7 @@ Over a terminal, two numbers are punched in, the `Enter`-key is pressed, the com
    ```bash
    if [ "$res" -eq 10 ]; then echo "Great!"; fi
    ```
-
+num
 9. **Repeat an Operation**: Use a loop:
    ```bash
    for i in {5..10}; do echo "$i"; done
@@ -86,11 +86,22 @@ Over a terminal, two numbers are punched in, the `Enter`-key is pressed, the com
 
 ## 3) Questions
 1. What advantages does using the terminal offer compared to graphical user interfaces?
-2. How can terminal commands improve reproducibility in software development?
-3. Why can it be important to understand basic terminal operations, even when working mostly in GUI environments?
-4. In what ways does using a terminal strengthen your understanding of how an operating system works?
-5. Why might automation be easier with terminal tools than with graphical interfaces?
-6. How can learning the terminal help you troubleshoot problems more effectively on your computer?
+   its allows to navigate and work faster
+   
+3. How can terminal commands improve reproducibility in software development?
+   working with the bashscripts allows u to make automation of processes.
+   
+5. Why can it be important to understand basic terminal operations, even when working mostly in GUI environments?
+   Understanding Terminal command allows u to understand whats in the Background is happening.
+   
+7. In what ways does using a terminal strengthen your understanding of how an operating system works?
+   with more knowlage about how computer understand our command helps to be faster.
+   
+9. Why might automation be easier with terminal tools than with graphical interfaces?
+    cuz its way easyer to make automation bashscript as to automate processes in GUI
+   
+11. How can learning the terminal help you troubleshoot problems more effectively on your computer?
+    in the debuging is important to understand how the computer interpritate our command.
 
 ## 4) Advice
 
